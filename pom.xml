@@ -26,7 +26,7 @@
         <!--测试类版本号-->
         <junit.version>4.12</junit.version>
         <!--mysql驱动版本号-->
-        <mysql-content.version>5.1.47</mysql-content.version>
+        <mysql-content.version>8.0.16</mysql-content.version>
         <!--druid连接池版本号-->
         <druid.version>1.1.20</druid.version>
         <!--jackson版本号-->
