@@ -30,7 +30,7 @@
         <!--druid连接池版本号-->
         <druid.version>1.1.20</druid.version>
         <!--jackson版本号-->
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <!--mybatis版本号-->
         <mybatis.version>3.5.2</mybatis.version>
         <!--mybatis分页插件pagehelper版本号 -->
